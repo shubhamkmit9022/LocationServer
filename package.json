@@ -1,0 +1,17 @@
+{
+  "name": "locationserver",
+  "version": "1.0.0",
+  "description": "This is a sample server for testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shubham Kumar Rai",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^1.0.0-alpha.21"
+  }
+}

@@ -1,0 +1,37 @@
+{
+ "posts": [
+   {
+     "id": "1",
+     "title": "a title"
+   },
+   {
+     "id": "2",
+     "title": "another title"
+   }
+ ],
+ "comments": [
+   {
+     "id": "1",
+     "text": "a comment about post 1",
+     "postId": "1"
+   },
+   {
+     "id": "2",
+     "text": "another comment about post 1",
+     "postId": "1"
+   }
+ ],
+ "logs": [
+   {
+     "latitude": 25.59409333333333,
+     "longitude": 85.13756333333335,
+     "deviceModel": "Android SDK built for x86",
+     "deviceBrand": "google",
+     "date_time": "Thu 18 Jan 15:13:30",
+     "id": 1
+   }
+ ],
+ "profile": {
+   "name": "typicode"
+ }
+}
